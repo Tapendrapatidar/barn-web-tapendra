@@ -56,7 +56,7 @@ const Links = [
   },
 
   {
-    name: "Product",
+    name: "Products",
     url: "/products",
     icon: Product,
     ActiveIcon: productActive,
